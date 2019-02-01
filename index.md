@@ -5,5 +5,7 @@ A collection of things that I've learned and continue to learn that I feel are n
 
 ## Table Of Contents
 - [Typescript Gotchas](docs/TypescriptGotchas.md)
+- [X11](docs/X11.md)
+- [Git](docs/git.md)
 
 
